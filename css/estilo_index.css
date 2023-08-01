@@ -11,7 +11,7 @@
 
 
 header h1{
-    text-align: left ;
+    text-align: center ;
     background-color: black;
     color: white;
     padding: 20px;
@@ -141,16 +141,16 @@ html{
 .sobremi .contenido-seccion .fila .col{
     width: 30%;
 }
-.sobremi .contenido-seccion .fila .col i{
-    color: blue;
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    border: 2px solid blue;
-    line-height: 40px;
-    border-radius: 50%;
+
+.sobremi .contenido-seccion .fila1 .col1{
+    text-align: center;
+    font-weight: bold;
+    margin: 0px 0;
+    
 }
+
 .sobremi .contenido-seccion .fila .col span{
+    text-align: justify;
     display: block;
     font-weight: bold;
     margin: 8px 0;
@@ -187,9 +187,8 @@ html{
   }
   
   h3 {
-    color: #777;
-    font-size: 20px;
-    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-size: 30px;
   }
   
   /* Estilos para las columnas y habilidades */
