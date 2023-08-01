@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+
+}
+.caja{
+    border: 1px solid orange;
+    margin: 10px;
+}
+
+.caja1{
+    border: 1px dotted blue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.caja2{
+    width: 300px;
+    border: 1px dashed #17b9ea; 
+    margin: 30px 10px;
+}
+
+.caja4{
+    background-color: turquoise;
+    width: 50%;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.caja5{
+    background-color: turquoise;
+    width: 50%;
+    margin: 20px;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 36px;
+}
+
+.caja6{
+    background-color: blueviolet;
+    color: white;
+    width: 50%;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px 25px 35px 45px;
+   }
+
+   .caja7{
+    background-color: rgb(43, 141, 226);
+    color: white;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px 25px 35px 45px;
+    box-shadow: -10px 10px red;
+   }
+

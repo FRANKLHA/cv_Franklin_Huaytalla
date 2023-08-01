@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: darkblue;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: darkblue;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }

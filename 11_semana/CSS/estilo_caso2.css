@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background: white;
+}
+.navegacion{
+    width: 730px;
+    margin: 30px auto;
+    background:#33B6FF;
+    
+ }
+.navegacion ul{
+    list-style: none;
+    
+}
+.menu>li{
+    display: inline-block;
+    
+}
+.menu > li >a{
+    display:block ;
+    padding: 0px 20px;
+    color: white;
+    font-family: _'Open sans';
+    text-decoration: none;
+    width: 110px;
+    padding: 15px;
+    background-color: #4CAF50;
+    margin: 4%;
+    cursor: pointer;
+    text-align: center;
+    
+}
+.menu li:hover{
+    color: #CE7D35;
+    transition: all;
+    
+}
